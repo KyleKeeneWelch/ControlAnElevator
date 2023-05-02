@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ggDfWuNF/QaUTRj5ODhjVHuOGOnMiy2a+RHGerQv0cmFypgS4UQLqgsh0zgjbyIvlqtGRu6BqUmQbT1AbWOGRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kylek\\Documents\\Uni - Year 2\\Desktop Application Development\\Assignment 1\\2101940Assignment1\\2101940Assignment1\\ControlAnElevator\\ControlAnElevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylek\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-rc.2.22472.3\\microsoft.win32.systemevents.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0-rc.2.22472.3\\system.configuration.configurationmanager.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.data.oledb\\7.0.0-rc.2.22472.3\\system.data.oledb.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0-rc.2.22472.3\\system.diagnostics.performancecounter.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.drawing.common\\7.0.0-rc.2.22472.3\\system.drawing.common.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0-rc.2.22472.3\\system.security.cryptography.protecteddata.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.security.permissions\\7.0.0-rc.2.22472.3\\system.security.permissions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kylek\\.nuget\\packages\\system.windows.extensions\\7.0.0-rc.2.22472.3\\system.windows.extensions.7.0.0-rc.2.22472.3.nupkg.sha512"
+  ],
+  "logs": []
+}
